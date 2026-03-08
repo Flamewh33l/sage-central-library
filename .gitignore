@@ -1,0 +1,21 @@
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compressed files (we want the extracted versions)
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
