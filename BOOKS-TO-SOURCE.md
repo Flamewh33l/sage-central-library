@@ -18,6 +18,10 @@ Last updated: 2026-03-08
 - [ ] **Viktor Frankl** — *Man's Search for Meaning*
 - [ ] **Havi Carel** — *Phenomenology of Illness*
 - [ ] **Various Authors** — *The Oxford Handbook of Philosophy of Medicine*
+- [ ] **Michel Foucault** — *The Birth of the Clinic*
+
+### Literature
+- [ ] **Richard Adams** — *The Plague Dogs*
 
 ---
 
