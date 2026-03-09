@@ -33,6 +33,9 @@ Last updated: 2026-03-08
 ### Literature
 - [ ] **Richard Adams** — *The Plague Dogs*
 - [ ] **Lois Lowry** — *The Giver*
+- [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding) character-driven)
+- [ ] **pirateaba** — *The Wandering Inn*
+- [ ] **pirateaba** — *The Wandering Inn* (character-driven progression fantasy, massive worldbuilding)
 
 ---
 
