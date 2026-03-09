@@ -9,7 +9,7 @@ Last updated: 2026-03-08
 ### Financial/Money Philosophy
 - [ ] **Nelson Nash** — *Warehouse Your Wealth* (Infinite Banking, counter to Dave Ramsey)
 - [ ] **Federal Reserve** — *Modern Money Mechanics* (hard to find, pulled from official distribution)
-- [ ] **Andrew Tate** — Fractional Reserve Banking content (topic reference, not specific book)
+- [ ] **Murray N. Rothbard** — *The Mystery of Banking* (fractional reserve banking, Austrian economics)
 
 ### Mortality & Philosophy of Medicine
 - [ ] **Atul Gawande** — *Being Mortal: Medicine and What Matters in the End*
