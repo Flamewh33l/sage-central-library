@@ -16,6 +16,11 @@ Last updated: 2026-03-08
 - [ ] **Raw Burt** — *The Illusion of Wealth: A Deep Dive into Fractional Reserve Banking*
 - [ ] **Charles Moore** — *The Banksters-Fractional Reserve Banking Fraud*
 
+**Practical Finance & Investing:**
+- [ ] **Mike Piper** — *Accounting Made Simple: Accounting for Non-Accountants*
+- [ ] **Robert Kiyosaki** — *Rich Dad Poor Dad*
+- [ ] **Jack D. Schwager** — *Market Wizards*
+
 ### Mortality & Philosophy of Medicine
 - [ ] **Atul Gawande** — *Being Mortal: Medicine and What Matters in the End*
 - [ ] **Paul Kalanithi** — *When Breath Becomes Air*
