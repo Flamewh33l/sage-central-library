@@ -32,6 +32,7 @@ Last updated: 2026-03-08
 
 ### Literature
 - [ ] **Richard Adams** — *The Plague Dogs*
+- [ ] **Lois Lowry** — *The Giver*
 
 ---
 
