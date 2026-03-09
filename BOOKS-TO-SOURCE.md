@@ -11,6 +11,11 @@ Last updated: 2026-03-08
 - [ ] **Federal Reserve** — *Modern Money Mechanics* (hard to find, pulled from official distribution)
 - [ ] **Murray N. Rothbard** — *The Mystery of Banking* (fractional reserve banking, Austrian economics)
 
+**Fractional Reserve Banking Critiques:**
+- [ ] **Richard Lechko & Walter Block** — *Fractional Reserve Banking and its Evil Actions*
+- [ ] **Raw Burt** — *The Illusion of Wealth: A Deep Dive into Fractional Reserve Banking*
+- [ ] **Charles Moore** — *The Banksters-Fractional Reserve Banking Fraud*
+
 ### Mortality & Philosophy of Medicine
 - [ ] **Atul Gawande** — *Being Mortal: Medicine and What Matters in the End*
 - [ ] **Paul Kalanithi** — *When Breath Becomes Air*
