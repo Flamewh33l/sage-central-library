@@ -6,6 +6,10 @@ Last updated: 2026-03-08
 
 ## Recommended Additions (from discussion)
 
+### Philosophy & Legal Systems
+- [ ] **Mel Stamper** — *Fruits from a Poisonous Tree* (US legal framework, citizen vs national, 1933 financial restructuring)
+- [ ] **Plato** — *The Republic* (full text — justice, city-soul analogy, three classes, four virtues, decline of states, cave allegory, myth of Er)
+
 ### Financial/Money Philosophy
 - [ ] **Nelson Nash** — *Warehouse Your Wealth* (Infinite Banking, counter to Dave Ramsey)
 - [ ] **Federal Reserve** — *Modern Money Mechanics* (hard to find, pulled from official distribution)
@@ -30,12 +34,337 @@ Last updated: 2026-03-08
 - [ ] **Various Authors** — *The Oxford Handbook of Philosophy of Medicine*
 - [ ] **Michel Foucault** — *The Birth of the Clinic*
 
+### Psychology (Freud & Jung)
+
+**Freud (Foundational Works):**
+- [ ] **Sigmund Freud** — *The Interpretation of Dreams* (foundation of unconscious theory)
+- [ ] **Sigmund Freud** — *Civilization and Its Discontents* (individual desire vs. social order)
+- [ ] **Sigmund Freud** — *The Psychopathology of Everyday Life* (slips, parapraxes, unconscious in daily life)
+- [ ] **Sigmund Freud** — *Three Essays on the Theory of Sexuality* (libido theory, developmental stages)
+- [ ] **Sigmund Freud** — *Beyond the Pleasure Principle* (death drive, repetition compulsion)
+- [ ] **Sigmund Freud** — *The Ego and the Id* (structural model: id, ego, superego)
+
+**Jung (Depth Psychology):**
+- [ ] **Carl Jung** — *Man and His Symbols* (accessible entry point, Jung's own introduction)
+- [ ] **Carl Jung** — *Psychological Types* (foundation of MBTI, shadow work, personality integration)
+- [ ] **Carl Jung** — *The Archetypes and The Collective Unconscious* (universal patterns, heavy lifting)
+- [ ] **Carl Jung** — *Memories, Dreams, Reflections* (autobiography, method in practice)
+- [ ] **Carl Jung** — *The Red Book* (personal descent into unconscious, illustrated by his own hand — if findable)
+
+### Ancient History (Mesopotamia & Near East)
+
+**Sumerian (First Civilization):**
+- [ ] **Samuel Noah Kramer** — *The Sumerians: Their History, Culture, and Character* (classic scholarly work)
+- [ ] **Samuel Noah Kramer** — *History Begins at Sumer* (39 "firsts" in human history)
+- [ ] **Charles River Editors** — *Sumer: History and Legacy of Ancient Mesopotamian Civilization*
+
+**Akkadian (First Empire):**
+- [ ] **Charles River Editors** — *Sargon of Akkad: The First Emperor in World History*
+- [ ] **Charles River Editors** — *The Akkadian Empire: History and Legacy*
+- [ ] ***Enuma Elish*** (Babylonian creation myth, Akkadian language — chaos vs. order mythology)
+
+**Babylonian & Assyrian:**
+- [ ] **Paul Kriwaczek** — *Babylon: Mesopotamia and the Birth of Civilization* (narrative history)
+- [ ] **The Epic of Gilgamesh** (Foster or George translation — oldest story we have)
+- [ ] **A. Leo Oppenheim** — *Ancient Mesopotamia: Portrait of a Dead Civilization*
+- [ ] **Eckart Frahm** — *Assyria: The Rise and Fall of the World's First Empire*
+
+**Persian (Achaemenid):**
+- [ ] **Tom Holland** — *Persian Fire* (Greco-Persian Wars from Persian perspective)
+- [ ] **Lindsay Allen** — *The Persian Empire*
+- [ ] **Pierre Briant** — *From Cyrus to Alexander* (heavy academic reference)
+
+**Phoenician:**
+- [ ] **Charles River Editors** — *The Phoenicians: History and Culture*
+- [ ] **Josephine Quinn** — *In Search of the Phoenicians* (challenges the concept of "Phoenician" identity)
+
+**Hittites (Bronze Age Superpower):**
+- [ ] **Trevor Bryce** — *The Kingdom of the Hittites* (definitive history)
+- [ ] **Trevor Bryce** — *Life and Society in the Hittite World* (daily life, religion, law)
+- [ ] **Osprey Publishing** — *Hittite Warrior* (military focus)
+- [ ] **J.G. Macqueen** — *The Hittites and Their Contemporaries in Asia Minor*
+
+**Carthaginians (Punic Civilization):**
+- [ ] **Richard Miles** — *Carthage Must Be Destroyed* (definitive modern history)
+- [ ] **Adrian Goldsworthy** — *The Punic Wars* (Rome vs. Carthage)
+- [ ] **Leonard Cottrell** — *Hannibal: Enemy of Rome*
+
+**Macedonians (Philip & Alexander):**
+- [ ] **Adrian Goldsworthy** — *Philip and Alexander* (father and son architects)
+- [ ] **Paul Cartledge** — *Alexander the Great: The Hunt for a New Past*
+- [ ] **Peter Thonemann** — *The Hellenistic Age* (post-Alexander world)
+- [ ] **James Romm** — *Ghost on the Throne* (wars of Alexander's successors)
+
+### Ancient History (East Asia)
+
+**Ancient China (Shang through Han):**
+- [ ] **Michael Loewe & Edward Shaughnessy** — *The Cambridge History of Ancient China*
+- [ ] **John Keay** — *China: A History* (comprehensive overview)
+- [ ] **David N. Keightley** — *These Bones Shall Rise Again: Selected Writings on Early China* (Shang dynasty focus)
+
+**Three Kingdoms Era (Shu, Wei, Wu):**
+- [ ] **Romance of the Three Kingdoms** (Luo Guanzhong — classic novel, semi-historical)
+- [ ] **Rafe de Crespigny** — *Generals of the South: The Foundation and Early History of the Three Kingdoms State of Wu*
+- [ ] **Rafe de Crespigny** — *To Establish Peace* (translations of primary sources)
+
+**Jurchens (Jin Dynasty, ancestors of Manchu):**
+- [ ] **Herbert Franke** — *The Cambridge History of China: Volume 6, Alien Regimes and Border States* (Jurchen Jin coverage)
+- [ ] **Jing-shen Tao** — *The Jurchen in Twelfth-Century China*
+
+**Khitans (Liao Dynasty):**
+- [ ] **Denis Twitchett & Klaus-Peter Tietze** — *The Cambridge History of China: The Liao Dynasty*
+- [ ] **V. S. Taskin** — *Materialy po istorii kochevykh narodov v Kitaye* (Khitans and nomadic peoples in China)
+
+**Ancient Japan (Yayoi through Kofun):**
+- [ ] **John Whitney Hall** — *Japan: From Prehistory to Modern Times* (early sections)
+- [ ] **C.M. Cipolla** — *Between Two Millennia: The Archaeology of Traditional Japanese Society*
+- [ ] **Gina L. Barnes** — *State Formation in Japan: Emergence of a 4th-Century Ruling Elite*
+
+**Ancient Korea (Gojoseon/Choson through Three Kingdoms):**
+- [ ] **Jahyun Kim Haboush** — *A History of Korea* (early sections)
+- [ ] **Ki-baik Lee** — *A New History of Korea*
+
+**Ancient Vietnam (Au Lac, Trung Sisters, Chinese domination era):**
+- [ ] **Keith Weller Taylor** — *The Birth of Vietnam* (definitive English-language history)
+- [ ] **Ben Kiernan** — *Vietnam: A History from Earliest Times* (comprehensive)
+
+### Pre-Columbian Americas (South)
+
+**Muisca (Colombia, El Dorado):**
+- [ ] **Carl Henrik Langebaek** — *The Muisca: Their History, Archaeology and Ethnography*
+- [ ] **Jorge Augusto Gamboa M.** — *El Dorado: The Gold of the Muisca* (ceremonial goldwork context)
+
+**Tupi (Brazil, coastal peoples):**
+- [ ] **John Manuel Monteiro** — *Tupis, Tapuias, and the Colonisation of Portuguese America*
+- [ ] **Eduardo Viveiros de Castro** — *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society*
+
+**Mapuche (Chile/Argentina, the unconquered):**
+- [ ] **Crow & Crow** — *The Mapuche: The Unconquered People*
+- [ ] **Bengoa** — *History of the Mapuche* (comprehensive)
+- [ ] **Painemal** — *The Mapuche in Modern Chile* (continuing struggle)
+
+**Aztecs (Mexica):**
+- [ ] **Miguel León-Portilla** — *The Broken Spears: The Aztec Account of the Conquest of Mexico*
+- [ ] **Ross Hassig** — *Aztec Warfare: Imperial Expansion and Political Control*
+- [ ] **Inga Clendinnen** — *Aztecs: An Interpretation*
+
+**Maya:**
+- [ ] **Michael D. Coe** — *The Maya* (definitive overview)
+- [ ] **David Stuart** — *The Order of Days: The Maya World and the Truth About 2012*
+- [ ] **Linda Schele & David Freidel** — *A Forest of Kings: The Untold Story of the Ancient Maya*
+
+**Inca:**
+- [ ] **John Hemming** — *The Conquest of the Incas*
+- [ ] **Maria Rostworowski** — *History of the Inca Realm*
+- [ ] **Terence N. D'Altroy** — *The Incas* (comprehensive archaeology/history)
+
+### Medieval Europe
+
+**Vikings (Scandinavia):**
+- [ ] **Anders Winroth** — *The Age of the Vikings*
+- [ ] **Neil Price** — *Children of Ash and Elm: A History of the Vikings*
+- [ ] **The Viking World** (edited by Stefan Brink) — comprehensive reference
+
+**Franks (Carolingians):**
+- [ ] **Rosamond McKitterick** — *Charlemagne: The Formation of a European Identity*
+- [ ] **Lewis Thorpe** — *Two Lives of Charlemagne* (Einhard and Notker translations)
+- [ ] **Patrick Geary** — *Before France and Germany: The Creation and Transformation of the Merovingian World*
+
+**Britons (Medieval England):**
+- [ ] **Marc Morris** — *The Anglo-Saxons: A History of the Beginnings of England*
+- [ ] **David Carpenter** — *The Struggle for Mastery: Britain 1066-1284*
+- [ ] **Dan Jones** — *The Plantagenets: The Warrior Kings and Queens Who Made England*
+
+**Teutons (Medieval Germany):**
+- [ ] **Timothy Reuter** — *Germany in the Early Middle Ages*
+- [ ] **Benjamin Arnold** — *Medieval Germany, 500-1300: A Political Interpretation*
+- [ ] **Friedrich Heer** — *The Holy Roman Empire*
+
+**Goths (Visigoths/Ostrogoths):**
+- [ ] **Peter Heather** — *The Goths*
+- [ ] **Michael Kulikowski** — *Rome's Gothic Wars*
+- [ ] **Herwig Wolfram** — *History of the Goths*
+
+**Burgundians:**
+- [ ] **John Boswell** — *The Royal Treasure of France: The Burgundian Court*
+- [ ] **Richard Vaughan** — *Valois Burgundy*
+
+**Sicilians (Norman Sicily):**
+- [ ] **John Julius Norwich** — *The Normans in the South*
+- [ ] **Karla Mallette** — *The Kingdom of Sicily, 1100-1250*
+
+**Italians (Medieval City-States):**
+- [ ] **John Julius Norwich** — *A History of Venice*
+- [ ] **Abulafia** — *The Great Sea: A Human History of the Mediterranean* (Italian maritime republics)
+- [ ] **Daniel Waley** — *The Italian City-Republics*
+- [ ] **Philip Jones** — *The Italian City-State: From Commune to Signoria*
+
+**Bohemians:**
+- [ ] **František Palacký** — *The History of Bohemia*
+- [ ] **R.R. Betts** — *Essays in Czech History*
+
+**Poles:**
+- [ ] **Norman Davies** — *God's Playground: A History of Poland*
+- [ ] **Paul W. Knoll** — *The Rise of the Polish Monarchy*
+
+**Lithuanians (Last Pagan Europe):**
+- [ ] **S.C. Rowell** — *Lithuania Ascending: A Pagan Empire Within East-Central Europe*
+- [ ] **Giedrius Šapoka** — *History of Lithuania*
+
+**Bulgarians:**
+- [ ] **R.J. Crampton** — *A Concise History of Bulgaria*
+- [ ] **Florin Curta** — *Southeastern Europe in the Middle Ages, 500-1250*
+
+**Magyars (Hungary):**
+- [ ] **László Kontler** — *A History of Hungary*
+- [ ] **Nora Berend** — *At the Gate of Christendom: Jews, Muslims and 'Pagans' in Medieval Hungary*
+
+**Slavs:**
+- [ ] **Florin Curta** — *The Making of the Slavs: History and Archaeology of the Lower Danube Region*
+- [ ] **Paul M. Barford** — *The Early Slavs*
+
+### Steppe Peoples
+
+**Mongols:**
+- [ ] **Jack Weatherford** — *Genghis Khan and the Making of the Modern World*
+- [ ] **David Morgan** — *The Mongols*
+- [ ] **The Secret History of the Mongols* (primary source, any translation)
+
+**Huns:**
+- [ ] **E.A. Thompson** — *The Huns*
+- [ ] **Christopher Kelly** — *Attila the Hun: Barbarian Terror and the Fall of the Roman Empire*
+
+**Cumans:**
+- [ ] **István Vásáry** — *Cumans and Tatars: Oriental Military in the Pre-Ottoman Balkans*
+
+**Tatars (Golden Horde):**
+- [ ] **Marie Favereau** — *The Horde: How the Mongols Changed the World*
+- [ ] **Charles J. Halperin** — *Russia and the Golden Horde*
+
+### Islamic World
+
+**Saracens (Crusades Era):**
+- [ ] **Carole Hillenbrand** — *The Crusades: Islamic Perspectives*
+- [ ] **Amin Maalouf** — *The Crusades Through Arab Eyes*
+- [ ] **Paul Cobb** — *The Race for Paradise: An Islamic History of the Crusades*
+
+**Turks (Ottomans):**
+- [ ] **Caroline Finkel** — *The Administration of Warfare: The Ottoman Military Campaigns in Hungary*
+- [ ] **Jason Goodwin** — *Lords of the Horizons: A History of the Ottoman Empire*
+- [ ] **Cemal Kafadar** — *Between Two Worlds: The Construction of the Ottoman State*
+
+### Late Roman Empire
+
+**Fall of the Western Empire:**
+- [ ] **Peter Heather** — *The Fall of the Roman Empire*
+- [ ] **Adrian Goldsworthy** — *How Rome Fell*
+- [ ] **Peter Brown** — *The Transformation of the Roman World*
+- [ ] **Walter Goffart** — *Barbarian Tides*
+- [ ] **Jordanes** — *The Gothic War* (primary source)
+
+### Byzantine Empire (Eastern Rome)
+
+**General Histories:**
+- [ ] **Judith Herrin** — *Byzantium: The Surprising Life of a Medieval Empire*
+- [ ] **Timothy Gregory** — *A History of Byzantium*
+- [ ] **Lars Brownworth** — *Lost to the West* (narrative, very readable)
+
+**Politics and Culture:**
+- [ ] **Anthony Kaldellis** — *The Byzantine Republic* (challenges emperor-worship narrative)
+- [ ] **Jonathan Harris** — *Byzantium and the Crusades* (complicated relationship with the West)
+
+**Primary Sources:**
+- [ ] **Anna Komnene** — *The Alexiad* (princess historian on her father Emperor Alexios I)
+
+**The Fall:**
+- [ ] **Roger Crowley** — *1453: The Holy War for Constantinople and the Clash of Islam and the West*
+
+**The East-West Split:**
+- [ ] **Stephen Williams & Gerard Friell** — *The Rome That Did Not Fall* (why East survived, West didn't)
+- [ ] **Averil Cameron** — *The Later Roman Empire* (Diocletian through the split)
+- [ ] **Bryan Ward-Perkins** — *The Fall of Rome and the End of Civilization*
+- [ ] **Nicholas Ostler** — *Empires of the Word* (linguistic divergence: Latin vs. Greek)
+
+**Byzantines (Eastern Roman Empire):**
+- [ ] **Judith Herrin** — *Byzantium: The Surprising Life of a Medieval Empire*
+- [ ] **Timothy Gregory** — *A History of Byzantium*
+- [ ] **Anthony Kaldellis** — *The Byzantine Republic*
+- [ ] **Jonathan Harris** — *Byzantium and the Crusades*
+- [ ] **Anna Komnene** — *The Alexiad* (primary source, princess-historian)
+- [ ] **Lars Brownworth** — *Lost to the West*
+- [ ] **Roger Crowley** — *1453: The Holy War for Constantinople*
+
+### Southeast Asia
+
+**Khmer (Angkor):**
+- [ ] **David Chandler** — *A History of Cambodia*
+- [ ] **Michael D. Coe** — *Angkor and the Khmer Civilization*
+- [ ] **Zhou Daguan** — *The Customs of Cambodia* (primary source, Yuan dynasty envoy)
+
+**Burmese:**
+- [ ] **Michael Aung-Thwin** — *The Mists of Ramanna: The Legend That Was Lower Burma*
+- [ ] **G.E. Harvey** — *History of Burma*
+
+**Malays:**
+- [ ] **Barbara Watson Andaya & Leonard Y. Andaya** — *A History of Malaysia*
+- [ ] **Anthony Milner** — *The Malays*
+
+### Africa
+
+**Ethiopians (Aksum/Solomonic):**
+- [ ] **Harold G. Marcus** — *A History of Ethiopia*
+- [ ] **Stuart Munro-Hay** — *Aksum: An African Civilization of Late Antiquity*
+- [ ] **The Kebra Nagast* (primary source, Ethiopian national epic)
+
+**Malians (Mali Empire):**
+- [ ] **John Hunwick** — *Timbuktu and the Songhay Empire*
+- [ ] **Robert O. Collins** — *African History in Maps* (West Africa sections)
+- [ ] **Ibn Battuta's travels in Mali* (primary source excerpts)
+
+**Berbers:**
+- [ ] **Michael Brett & Elizabeth Fentress** — *The Berbers*
+- [ ] **Ibn Khaldun** — *The Muqaddimah* (primary source, Berber historian)
+
+### Indian Subcontinent (Regional)
+
+**Hindustanis (Delhi Sultanate):**
+- [ ] **Peter Jackson** — *The Delhi Sultanate: A Political and Military History*
+- [ ] **Sunil Kumar** — *The Emergence of the Delhi Sultanate*
+
+**Bengalis:**
+- [ ] **Richard Eaton** — *The Rise of Islam and the Bengal Frontier*
+- [ ] **Sufism in Bengal* collections
+
+**Dravidians (South India):**
+- [ ] **Nilakanta Sastri** — *A History of South India*
+- [ ] **George Michell** — *The Hindu Temple: An Introduction to Its Meaning and Forms* (Chola/Pallava architecture)
+- [ ] **Vijayanagara** collections (the empire that succeeded Cholas)
+
+**Gurjaras (Rajputs):**
+- [ ] **Dasharatha Sharma** — *Early Chauhan Dynasties*
+- [ ] **James Tod** — *Annals and Antiquities of Rajasthan* (colonial era but foundational)
+
+### Caucasus
+
+**Armenians:**
+- [ ] **James Howard-Johnston** — *Byzantium and the Armenians*
+- [ ] **Vahan Kurkjian** — *A History of Armenia*
+- [ ] **Movses Khorenatsi** — *History of Armenia* (primary source, "Father of Armenian History")
+
+**Georgians:**
+- [ ] **Donald Rayfield** — *Edge of Empires: A History of Georgia*
+- [ ] **W.E.D. Allen** — *A History of the Georgian People*
+
+**Zoroastrianism (Persian Dualism):**
+- [ ] **Jenny Rose** — *Zoroastrianism: A Guide for the Perplexed* (accessible introduction)
+- [ ] **Mary Boyce** — *Zoroastrians: Their Religious Beliefs and Practices* (classic scholarly work)
+- [ ] **S.A. Nigosian** — *The Zoroastrian Faith: Tradition and Modern Research*
+- [ ] ***The Gathas*** (hymns of Zoroaster/Zarathustra — translations, not Nietzsche)
+
 ### Literature
 - [ ] **Richard Adams** — *The Plague Dogs*
 - [ ] **Lois Lowry** — *The Giver*
-- [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding) character-driven)
-- [ ] **pirateaba** — *The Wandering Inn*
-- [ ] **pirateaba** — *The Wandering Inn* (character-driven progression fantasy, massive worldbuilding)
+- [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding, character-driven)
 
 ---
 
