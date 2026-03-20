@@ -562,6 +562,29 @@ Last updated: 2026-03-08
 - [ ] **S.A. Nigosian** — *The Zoroastrian Faith: Tradition and Modern Research*
 - [ ] ***The Gathas*** (hymns of Zoroaster/Zarathustra — translations, not Nietzsche)
 
+### Russian & Soviet Literature
+
+**Official Soviet Era (State-Sanctioned):**
+- [ ] **Mikhail Sholokhov** — *And Quiet Flows the Don* (1928-1940) — Epic about Russian Revolution and civil war, Nobel Prize winner
+- [ ] **Nikolai Ostrovsky** — *How the Steel Was Tempered* (1934) — Quintessential socialist realist novel, required Soviet reading
+- [ ] **Alexander Serafimovich** — *The Iron Flood* (1924) — Heroic civil war narrative
+- [ ] **Vera Panova** — *Kruzhilikha* (1947) — Life in a Soviet factory town
+- [ ] **Konstantin Paustovsky** — Memoirs and nature writing (avoided politics, celebrated Russian life)
+
+**Dissident/Samizdat (Smuggled West):**
+- [ ] **Alexander Solzhenitsyn** — *One Day in the Life of Ivan Denisovich* (1962) — First gulag account published in USSR
+- [ ] **Alexander Solzhenitsyn** — *The Gulag Archipelago* (1973) — Comprehensive gulag history, caused his exile
+- [ ] **Boris Pasternak** — *Doctor Zhivago* (1957) — Smuggled to Italy, Nobel Prize refused under pressure
+- [ ] **Nadezhda Mandelstam** — *Hope Against Hope* (1970) — Memoir of life under Stalin, husband poet Osip Mandelstam murdered
+- [ ] **Varlam Shalamov** — *Kolyma Tales* (1978) — Gulag short stories, harder than Solzhenitsyn
+
+**Russian Classics (Pre-Soviet):**
+- [ ] **Fyodor Dostoevsky** — *The Brothers Karamazov*, *Crime and Punishment*, *Notes from Underground*, *The Idiot*
+- [ ] **Leo Tolstoy** — *War and Peace*, *Anna Karenina*, *The Death of Ivan Ilyich*
+- [ ] **Anton Chekhov** — *The Cherry Orchard*, *Uncle Vanya*, short stories
+- [ ] **Ivan Turgenev** — *Fathers and Sons*
+- [ ] **Nikolai Gogol** — *Dead Souls*, *The Overcoat*
+
 ### Literature
 - [ ] **Richard Adams** — *The Plague Dogs*
 - [ ] **Lois Lowry** — *The Giver*
