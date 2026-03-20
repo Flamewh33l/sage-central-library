@@ -574,9 +574,14 @@ Last updated: 2026-03-08
 **Dissident/Samizdat (Smuggled West):**
 - [ ] **Alexander Solzhenitsyn** — *One Day in the Life of Ivan Denisovich* (1962) — First gulag account published in USSR
 - [ ] **Alexander Solzhenitsyn** — *The Gulag Archipelago* (1973) — Comprehensive gulag history, caused his exile
+- [ ] **Alexander Solzhenitsyn** — *Cancer Ward* (1968) — Smuggled West, hospital as microcosm of Soviet society
+- [ ] **Alexander Solzhenitsyn** — *The First Circle* (1968) — Gulag scientists forced to work for state, moral compromises
 - [ ] **Boris Pasternak** — *Doctor Zhivago* (1957) — Smuggled to Italy, Nobel Prize refused under pressure
 - [ ] **Nadezhda Mandelstam** — *Hope Against Hope* (1970) — Memoir of life under Stalin, husband poet Osip Mandelstam murdered
 - [ ] **Varlam Shalamov** — *Kolyma Tales* (1978) — Gulag short stories, harder than Solzhenitsyn
+- [ ] **Vladimir Voinovich** — *The Life and Extraordinary Adventures of Private Ivan Chonkin* (1969-1975) — Satirical novel, smuggled, Soviet military farce
+- [ ] **Vasily Grossman** — *Life and Fate* (1959, smuggled 1970s) — "Soviet War and Peace," WWII and camps, KGB confiscated manuscripts, microfilm survived
+- [ ] **Andrei Sakharov** — Essays and writings — Nuclear physicist turned dissident, human rights, Nobel Peace Prize 1975, USSR blocked him from collecting
 
 **Russian Classics (Pre-Soviet):**
 - [ ] **Fyodor Dostoevsky** — *The Brothers Karamazov*, *Crime and Punishment*, *Notes from Underground*, *The Idiot*
