@@ -598,6 +598,31 @@ Last updated: 2026-03-08
 - [ ] **Euripides** — *Medea*, *The Bacchae*, *Hippolytus* — Psychological complexity, challenging conventions
 - [ ] **Aristophanes** — *Lysistrata*, *The Clouds*, *The Birds* — Political satire, Old Comedy
 
+**Roman Drama:**
+- [ ] **Plautus** — *The Menaechmi*, *Amphitryon*, *The Braggart Soldier* — Physical comedy, stock characters, Shakespeare borrowed from him
+- [ ] **Terence** — *The Brothers*, *The Eunuch* — Refined comedy, sophisticated dialogue
+- [ ] **Seneca** — *Thyestes*, *Medea*, *Oedipus*, *Phaedra* — Dark, rhetorical, bloodier than Greeks, influenced Elizabethan tragedy
+
+**Sanskrit Drama (Classical Indian):**
+- [ ] **Kalidasa** — *Shakuntala* (The Recognition of Shakuntala), *Vikramorvashi*, *Malavikagnimitram* — "The Shakespeare of India," poetry integrated with drama
+- [ ] **Bhasa** — *The Dream of Vasavadatta*, *Svapnavasavadatta* — Earlier than Kalidasa, direct style
+- [ ] **Bhavabhuti** — *Uttararamacharita*, *Malatimadhava* — Later Sanskrit drama, Ramayana retellings
+
+**Chinese Classical Drama:**
+- [ ] **Wang Shifu** — *The Romance of the West Chamber* (Xixiang Ji) — Yuan dynasty zaju, love story, poetry and song
+- [ ] **Guan Hanqing** — *The Injustice to Dou E* (Dou E Yuan) — Yuan drama, wrongful execution, supernatural justice
+- [ ] **Tang Xianzu** — *The Peony Pavilion* (Mudan Ting) — 55-scene kunqu masterpiece, love transcending death, 16th century
+- [ ] **Beijing Opera (Jingju) scripts** — Stylized, codified performance texts
+
+**Japanese Classical Theatre:**
+- [ ] **Zeami Motokiyo** — *Atsumori*, *Komachi*, *The Well-Curb*, Noh plays + theoretical writings (*Fushikaden*) — Masks, impermanence, minimal
+- [ ] **Chikamatsu Monzaemon** — *The Love Suicides at Amijima*, *The Battles of Coxinga*, *The Love Suicides at Sonezaki* — Bunraku puppet theatre, "the Shakespeare of Japan"
+- [ ] **Kabuki classics** — *Kanadehon Chushingura* (The Treasury of Loyal Retainers — 47 ronin), *Yoshitsune Senbon Zakura*
+- [ ] **Kabuki Jūhachiban** — The 18 canonical plays of the Ichikawa family
+
+**Korean Traditional Theatre:**
+- [ ] **Pansori** — *Chunhyangga*, *Heungbuga*, *Simcheongga* — Narrative singing, transcribed oral tradition
+
 **Epic Poetry (Dramatic Foundations):**
 - [ ] **Homer** — *The Odyssey* — Odysseus's journey home, Penelope's test of identity, fidelity and cunning
 - [ ] **Homer** — *The Iliad* — War, honor, rage of Achilles
