@@ -925,6 +925,12 @@ Last updated: 2026-03-08
 - [ ] **Lois Lowry** — *The Giver*
 - [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding, character-driven)
 
+### Philosophy in Fiction (Cynical/Realist Tradition)
+- [ ] **Tacitus** — *The Annals*, *The Histories*, *Germania* — Roman historian, empire without illusion, "men repay injury more readily than benefit"
+- [ ] **Terry Pratchett** — *Discworld* series (selections) — Satire as philosophy, "the crowd that applauds your coronation will applaud your beheading"
+- [ ] **Steven Erikson** — *Malazan Book of the Fallen* — Epic fantasy as history, empire, "the lesson of history is that no one learns"
+- [ ] **Glen Cook** — *The Black Company*, *Dreams of Steel*, Instrumentalities of the Night — Military fantasy, "more evil gets done in the name of righteousness"
+
 ---
 
 ## Books Needing Replacement (Stubs/Placeholders)
