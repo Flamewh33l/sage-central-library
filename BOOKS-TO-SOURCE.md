@@ -40,12 +40,22 @@ Last updated: 2026-03-08
 ### Religious Texts (Comparative Understanding)
 
 **Abrahamic Traditions:**
-- [ ] ***The Holy Bible*** (multiple translations — literary, historical, theological significance)
-- [ ] ***The Quran*** (English translation — Islamic theology, law, poetry)
+- [ ] ***The Holy Bible*** — Multiple translations and perspectives:
+  - [ ] Catholic (New American Bible, Jerusalem Bible — includes Apocrypha/Deuterocanon)
+  - [ ] Protestant (NIV, ESV, KJV — 66 books, different canon)
+  - [ ] Orthodox (Septuagint-based, broader canon than Catholic)
+  - [ ] Academic/secular (NRSV with apocrypha, historical-critical notes)
+- [ ] ***The Quran*** — Multiple translations:
+  - [ ] Traditional (Yusuf Ali, Pickthall)
+  - [ ] Academic/secular (Sahih International, commentary-free)
+  - [ ] Literary (Abdel Haleem)
 - [ ] ***The Torah/Tanakh*** (Hebrew Bible — Jewish law, narrative, prophecy)
 - [ ] ***The Apocrypha*** (deuterocanonical texts — Catholic/Orthodox tradition)
 - [ ] ***The Book of Mormon*** (Latter-day Saint scripture)
 - [ ] ***The Talmud*** (selections — rabbinic commentary, legal reasoning)
+- [ ] ***Hadith Collections*** — Sunni vs. Shia traditions:
+  - [ ] Sahih Bukhari / Sahih Muslim (Sunni canonical)
+  - [ ] Al-Kafi (Shia primary collection)
 
 **Eastern Traditions:**
 - [ ] ***The Bhagavad Gita*** (Hindu philosophy, duty, devotion, yoga paths)
