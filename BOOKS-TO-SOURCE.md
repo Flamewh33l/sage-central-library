@@ -9,6 +9,17 @@ Last updated: 2026-03-08
 ### Philosophy & Legal Systems
 - [ ] **Mel Stamper** — *Fruits from a Poisonous Tree* (US legal framework, citizen vs national, 1933 financial restructuring)
 - [ ] **Plato** — *The Republic* (full text — justice, city-soul analogy, three classes, four virtues, decline of states, cave allegory, myth of Er)
+- [ ] **Niccolò Machiavelli** — *The Prince* (power, pragmatism, Western political realism — companion to Sun Tzu's Eastern approach)
+- [ ] **Niccolò Machiavelli** — *The Art of War* (military strategy, different from Sun Tzu — Renaissance Italian approach)
+
+### New Thought (Mind-Reality Philosophy)
+- [ ] **Bob Proctor** — *You Were Born Rich*, *The Art of Living* (belief systems, paradigm shifts)
+- [ ] **Earl Nightingale** — *The Strangest Secret*, *Lead the Field* (recorded lectures, thought as causative)
+- [ ] **Dr. Wayne Dyer** — *Your Erroneous Zones*, *The Power of Intention* (self-actualization, intention)
+- [ ] **Dr. Joe Dispenza** — *Breaking the Habit of Being Yourself*, *Becoming Supernatural* (neuroscience meets metaphysics)
+- [ ] **Wallace D. Wattles** — *The Science of Getting Rich* (classic New Thought, creative vs competitive mind)
+- [ ] **Thomas Troward** — *The Edinburgh Lectures on Mental Science* (foundational New Thought philosophy)
+- [ ] **Neville Goddard** — *The Power of Awareness*, *Feeling is the Secret* (imagination as reality creation)
 
 ### Financial/Money Philosophy
 - [ ] **Nelson Nash** — *Warehouse Your Wealth* (Infinite Banking, counter to Dave Ramsey)
@@ -365,6 +376,15 @@ Last updated: 2026-03-08
 - [ ] **Richard Adams** — *The Plague Dogs*
 - [ ] **Lois Lowry** — *The Giver*
 - [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding, character-driven)
+
+### Shakespeare (Requested by Thanatos)
+- [ ] **William Shakespeare** — *Hamlet*
+- [ ] **William Shakespeare** — *Macbeth*
+- [ ] **William Shakespeare** — *King Lear*
+- [ ] **William Shakespeare** — *Othello*
+- [ ] **William Shakespeare** — *A Midsummer Night's Dream*
+- [ ] **William Shakespeare** — *The Tempest*
+- [ ] **William Shakespeare** — *Romeo and Juliet*
 
 ---
 
