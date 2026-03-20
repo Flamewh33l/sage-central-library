@@ -835,6 +835,25 @@ Last updated: 2026-03-08
 
 **Context:** These two clusters form the UK GCSE English Literature poetry anthology — conflict, power, love, family, identity. Frequently examined, widely taught.
 
+**Worlds and Lives Cluster:**
+- [ ] **William Wordsworth** — *Lines Written in Early Spring* — Nature, joy, human disconnect from natural harmony
+- [ ] **Percy Bysshe Shelley** — *England in 1819* — Political sonnet, oppression, tyrannical king, hope for revolution
+- [ ] **Emily Brontë** — *Shall Earth no More Inspire Thee* — Nature, spiritual connection, transcendence, love beyond death
+- [ ] **George Eliot** — *In a London Drawingroom* — Urban alienation, fog, disconnection from sky and nature
+- [ ] **James Berry** — *On an Afternoon Train from Purley to Victoria, 1955* — Migration, London, observation, arrival
+- [ ] **Raman Mundair** — *Name Journeys* — Names, migration, identity, heritage across continents
+- [ ] **Shamshad Khan** — *Pot* — Domestic objects, heritage, memory, cultural transmission
+- [ ] **Seni Seneviratne** — *A Wider View* — Place, belonging, expanded perspective, heritage
+- [ ] **Liz Berry** — *Homing* — Return, Birmingham, accent, identity, coming home to place and self
+- [ ] **Imtiaz Dharker** — *A Century Later* — Inheritance, legacy, what persists across generations
+- [ ] **Louisa Adjoa Parker** — *The Jewellery Maker* — Craft, heritage, Black British experience, artistry
+- [ ] **Raymond Antrobus** — *With Birds You're Never Lonely* — Deafness, communication, nature, isolation and connection
+- [ ] **Roger Robinson** — *A Portable Paradise* — Caribbean diaspora, carrying home, memory as portable
+- [ ] **Grace Nichols** — *Like an Heiress* — Inheritance, Caribbean identity, claiming what's rightfully yours
+- [ ] **Caleb Femi** — *Thirteen* — Youth, London, coming of age, urban life, contemporary Britain
+
+**Context:** Worlds and Lives focuses on place, migration, heritage, and belonging — how identity is shaped by where we're from and where we find ourselves. Added to AQA specification after 2019.
+
 **Contemporary (Living/Recent):**
 - [ ] **Mary Oliver** — *Selected poems* — Nature, spirituality, accessible, Pulitzer
 - [ ] **Billy Collins** — *Selected poems* — Humor, accessibility, US Poet Laureate
