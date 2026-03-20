@@ -797,6 +797,23 @@ Last updated: 2026-03-08
 - [ ] **Christopher Okigbo** — *Selected poems* — Nigeria, Biafra, death
 - [ ] **Okot p'Bitek** — *Song of Lawino* — Uganda, traditional vs modern
 
+**Essential Individual Poems (UK GCSE Canon):**
+- [ ] **Ted Hughes** — *Bayonet Charge* — WWI perspective, fear, loss of purpose mid-charge
+- [ ] **Alfred, Lord Tennyson** — *The Charge of the Light Brigade* — Crimean War, heroism and futility, cavalry
+- [ ] **John Agard** — *Checking Out Me History* — Postcolonial, reclaiming Caribbean heritage vs. British education
+- [ ] **Carol Rumens** — *The Emigrée* — Memory of homeland, loss, nostalgia, political exile
+- [ ] **Wilfred Owen** — *Exposure* — WWI trenches, cold, waiting, nature as enemy
+- [ ] **Beatrice Garland** — *Kamikaze* — Japanese pilot, shame, family, memory
+- [ ] **William Blake** — *London* — Industrial London, suffering, social critique
+- [ ] **Robert Browning** — *My Last Duchess* — Dramatic monologue, power, jealousy, Renaissance duke
+- [ ] **Percy Bysshe Shelley** — *Ozymandias* — Hubris, ruins, time erasing empires
+- [ ] **Jane Weir** — *Poppies* — Mother's perspective, loss of child to war, grief
+- [ ] **William Wordsworth** — *The Prelude* (extract) — Nature, stealing boat, sublime fear
+- [ ] **Simon Armitage** — *Remains* — Modern soldier, PTSD, guilt, shooting looters
+- [ ] **Seamus Heaney** — *Storm on the Island* — Northern Ireland, isolation, nature's violence, military metaphor
+- [ ] **Imtiaz Dharker** — *Tissue* — Paper as metaphor, fragility, borders, identity
+- [ ] **Carol Ann Duffy** — *War Photographer* — Developing photos, home vs. war zones, complicity
+
 **Contemporary (Living/Recent):**
 - [ ] **Mary Oliver** — *Selected poems* — Nature, spirituality, accessible, Pulitzer
 - [ ] **Billy Collins** — *Selected poems* — Humor, accessibility, US Poet Laureate
