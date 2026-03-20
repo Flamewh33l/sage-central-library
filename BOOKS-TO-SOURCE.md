@@ -6,6 +6,186 @@ Last updated: 2026-03-08
 
 ## Recommended Additions (from discussion)
 
+### Modern Philosophy
+
+**Enlightenment (Reason, Rights, Social Contract):**
+- [ ] **John Locke** — *Two Treatises of Government* (natural rights, property, consent of the governed)
+- [ ] **John Locke** — *An Essay Concerning Human Understanding* (empiricism, tabula rasa)
+- [ ] **David Hume** — *An Enquiry Concerning Human Understanding* (skepticism, induction problem)
+- [ ] **Immanuel Kant** — *Critique of Pure Reason* (transcendental idealism, limits of knowledge)
+- [ ] **Immanuel Kant** — *Groundwork of the Metaphysics of Morals* (categorical imperative)
+- [ ] **Jean-Jacques Rousseau** — *The Social Contract* (general will, popular sovereignty)
+- [ ] **Baruch Spinoza** — *Ethics* (monism, determinism, intellectual love of God)
+
+**19th Century (Idealism, Materialism, Existentialism):**
+- [ ] **G.W.F. Hegel** — *The Phenomenology of Spirit* (dialectic, history as progress of consciousness)
+- [ ] **G.W.F. Hegel** — *Elements of the Philosophy of Right* (civil society, state, freedom)
+- [ ] **Søren Kierkegaard** — *Fear and Trembling* (leap of faith, Abraham's dilemma)
+- [ ] **Søren Kierkegaard** — *Either/Or* (aesthetic vs ethical life)
+- [ ] **Friedrich Nietzsche** — *Thus Spoke Zarathustra* (Übermensch, eternal recurrence)
+- [ ] **Friedrich Nietzsche** — *Beyond Good and Evil* (critique of morality, will to power)
+- [ ] **Friedrich Nietzsche** — *On the Genealogy of Morals* (origin of moral values)
+- [ ] **Arthur Schopenhauer** — *The World as Will and Representation* (pessimism, will as thing-in-itself)
+
+**20th Century (Analytic, Continental, Existentialism):**
+- [ ] **Ludwig Wittgenstein** — *Tractatus Logico-Philosophicus* (picture theory, limits of language)
+- [ ] **Ludwig Wittgenstein** — *Philosophical Investigations* (language games, meaning as use)
+- [ ] **Martin Heidegger** — *Being and Time* (Dasein, existential phenomenology)
+- [ ] **Jean-Paul Sartre** — *Being and Nothingness* (existentialism, radical freedom, bad faith)
+- [ ] **Albert Camus** — *The Myth of Sisyphus* (absurdism, suicide question)
+- [ ] **Simone de Beauvoir** — *The Second Sex* (existentialist feminism, "one is not born a woman")
+- [ ] **Michel Foucault** — *Discipline and Punish* (power/knowledge, surveillance society)
+- [ ] **Michel Foucault** — *The Order of Things* (epistemes, archaeology of knowledge)
+
+### Religious Texts (Comparative Understanding)
+
+**Abrahamic Traditions:**
+- [ ] ***The Holy Bible*** (multiple translations — literary, historical, theological significance)
+- [ ] ***The Quran*** (English translation — Islamic theology, law, poetry)
+- [ ] ***The Torah/Tanakh*** (Hebrew Bible — Jewish law, narrative, prophecy)
+- [ ] ***The Apocrypha*** (deuterocanonical texts — Catholic/Orthodox tradition)
+- [ ] ***The Book of Mormon*** (Latter-day Saint scripture)
+- [ ] ***The Talmud*** (selections — rabbinic commentary, legal reasoning)
+
+**Eastern Traditions:**
+- [ ] ***The Bhagavad Gita*** (Hindu philosophy, duty, devotion, yoga paths)
+- [ ] ***The Upanishads*** (Vedanta philosophy, Brahman, Atman)
+- [ ] ***The Dhammapada*** (Buddhist sayings, ethical teachings)
+- [ ] ***The Tibetan Book of the Dead*** (Bardo teachings, death and rebirth)
+- [ ] ***The Tao Te Ching*** (Lao Tzu — Taoist philosophy, wu wei)
+- [ ] ***The Zhuangzi*** (Taoist stories, skepticism, spontaneity)
+- [ ] ***The Analects*** (Confucius — ethics, governance, self-cultivation)
+- [ ] ***The Mengzi*** (Mencius — Confucian human nature debates)
+- [ ] ***The I Ching*** (Book of Changes — divination, Chinese cosmology)
+- [ ] ***The Guru Granth Sahib*** (Sikh scripture — selections)
+
+**Other Traditions:**
+- [ ] ***The Avesta*** (Zoroastrian texts — selections)
+- [ ] ***The Kojiki*** (Japanese mythology, Shinto)
+- [ ] ***The Popol Vuh*** (Maya creation narrative)
+- [ ] ***The Egyptian Book of the Dead*** (afterlife, judgment)
+
+**Mystical/Esoteric Traditions:**
+- [ ] ***The Zohar*** (Kabbalah — selections, mystical interpretation)
+- [ ] ***The Cloud of Unknowing*** (Christian mysticism, apophatic theology)
+- [ ] ***The Conference of the Birds*** (Sufi allegory, Attar of Nishapur)
+- [ ] ***The Tibetan Yogas of Dream and Sleep*** (Dream yoga practices)
+
+### Science History
+
+**Physics:**
+- [ ] **Albert Einstein** — *Relativity: The Special and General Theory* (spacetime, gravity)
+- [ ] **Richard Feynman** — *Six Easy Pieces* (essential physics concepts)
+- [ ] **Stephen Hawking** — *A Brief History of Time* (cosmology, black holes)
+- [ ] **Carlo Rovelli** — *Seven Brief Lessons on Physics* (modern physics overview)
+- [ ] **Thomas Kuhn** — *The Structure of Scientific Revolutions* (paradigm shifts, how science changes)
+
+**Biology/Evolution:**
+- [ ] **Charles Darwin** — *On the Origin of Species* (natural selection, common descent)
+- [ ] **Charles Darwin** — *The Descent of Man* (human evolution, sexual selection)
+- [ ] **Richard Dawkins** — *The Selfish Gene* (gene-centered evolution)
+- [ ] **E.O. Wilson** — *Sociobiology* (biological basis of social behavior)
+- [ ] **Lynn Margulis** — *Symbiotic Planet* (endosymbiosis, cooperation in evolution)
+
+**Mathematics:**
+- [ ] **Euclid** — *The Elements* (geometry, deductive reasoning)
+- [ ] **G.H. Hardy** — *A Mathematician's Apology* (beauty of pure mathematics)
+- [ ] **Douglas Hofstadter** — *Gödel, Escher, Bach* (recursion, consciousness, formal systems)
+
+### Modern History
+
+**Renaissance & Reformation:**
+- [ ] **Jacob Burckhardt** — *The Civilization of the Renaissance in Italy* (classic cultural history)
+- [ ] **Diarmaid MacCulloch** — *The Reformation: A History* (Protestant/Catholic split)
+
+**Enlightenment & Revolution:**
+- [ ] **Eric Hobsbawm** — *The Age of Revolution: 1789-1848* (French Revolution, industrialization)
+- [ ] **Jonathan Israel** — *Radical Enlightenment* (philosophical roots of modernity)
+
+**Industrial Revolution:**
+- [ ] **David Landes** — *The Unbound Prometheus* (technological change in Europe)
+- [ ] **Eric Hobsbawm** — *The Age of Capital: 1848-1875* (industrial society)
+
+**World Wars & Interwar:**
+- [ ] **Christopher Clark** — *The Sleepwalkers: How Europe Went to War in 1914* (WWI origins)
+- [ ] **Adam Tooze** — *The Wages of Destruction* (Nazi economic history)
+- [ ] **Timothy Snyder** — *Bloodlands: Europe Between Hitler and Stalin* (Eastern Front)
+
+**Cold War:**
+- [ ] **John Lewis Gaddis** — *The Cold War: A New History* (comprehensive overview)
+- [ ] **Odd Arne Westad** — *The Global Cold War* (Third World interventions)
+- [ ] **Anne Applebaum** — *Iron Curtain: The Crushing of Eastern Europe 1944-1956*
+
+### Military Theory
+
+- [ ] **Carl von Clausewitz** — *On War* (war as politics, friction, fog of war — Western companion to Sun Tzu)
+- [ ] **Antoine-Henri Jomini** — *The Art of War* (Napoleonic strategy, lines of operation)
+- [ ] **B.H. Liddell Hart** — *Strategy* (indirect approach, grand strategy)
+- [ ] **Sun Tzu** — *The Art of War* (positioning, deception, knowing self and enemy)
+
+### Political Economy
+
+**Classical Foundations:**
+- [ ] **Adam Smith** — *The Wealth of Nations* (division of labor, invisible hand)
+- [ ] **Adam Smith** — *The Theory of Moral Sentiments* (sympathy, moral psychology)
+- [ ] **David Ricardo** — *Principles of Political Economy* (comparative advantage, rent)
+- [ ] **Thomas Malthus** — *An Essay on the Principle of Population*
+
+**Marxist Tradition:**
+- [ ] **Karl Marx** — *Capital, Vol. 1* (labor theory of value, exploitation, commodity fetishism)
+- [ ] **Karl Marx & Friedrich Engels** — *The Communist Manifesto* (class struggle, historical materialism)
+- [ ] **Friedrich Engels** — *The Condition of the Working Class in England*
+
+**Keynesian/Institutionalist:**
+- [ ] **John Maynard Keynes** — *The General Theory of Employment, Interest and Money* (aggregate demand, government intervention)
+- [ ] **John Maynard Keynes** — *The Economic Consequences of the Peace* (Treaty of Versailles critique)
+- [ ] **Thorstein Veblen** — *The Theory of the Leisure Class* (conspicuous consumption, institutional economics)
+
+**Austrian/Neoliberal:**
+- [ ] **F.A. Hayek** — *The Road to Serfdom* (critique of central planning)
+- [ ] **F.A. Hayek** — *Individualism and Economic Order* (spontaneous order, knowledge problem)
+- [ ] **Ludwig von Mises** — *Human Action* (praxeology, Austrian methodology)
+- [ ] **Milton Friedman** — *Capitalism and Freedom* (free market advocacy)
+- [ ] **Milton Friedman** — *A Monetary History of the United States* (with Anna Schwartz)
+
+### Technology & Industry
+
+- [ ] **Lewis Mumford** — *Technics and Civilization* (technology and social change)
+- [ ] **David Landes** — *The Unbound Prometheus* (technological revolution in Europe)
+- [ ] **Thomas P. Hughes** — *Networks of Power* (electrification as system building)
+- [ ] **Kevin Kelly** — *What Technology Wants* (technology as autonomous force)
+- [ ] **Walter Isaacson** — *The Innovators* (history of computing)
+- [ ] **George Dyson** — *Turing's Cathedral* (origins of digital computing)
+- [ ] **Jaron Lanier** — *You Are Not a Gadget* (critique of Web 2.0, digital enclosure)
+
+### Language & Rhetoric
+
+- [ ] **Aristotle** — *Rhetoric* (ethos, pathos, logos, persuasion)
+- [ ] **Aristotle** — *Poetics* (tragedy, catharsis, narrative structure)
+- [ ] **Edward Sapir** — *Language: An Introduction to the Study of Speech*
+- [ ] **Benjamin Lee Whorf** — *Language, Thought, and Reality* (linguistic relativity)
+- [ ] **Noam Chomsky** — *Syntactic Structures* (generative grammar)
+- [ ] **Steven Pinker** — *The Language Instinct* (universal grammar, language acquisition)
+- [ ] **George Lakoff** — *Metaphors We Live By* (conceptual metaphor, framing)
+- [ ] **Roland Barthes** — *Mythologies* (semiotics, cultural signs)
+
+### Art & Culture
+
+**Art History:**
+- [ ] **E.H. Gombrich** — *The Story of Art* (comprehensive art history)
+- [ ] **John Berger** — *Ways of Seeing* (how we look at art, ideology of images)
+- [ ] **Walter Benjamin** — *The Work of Art in the Age of Mechanical Reproduction*
+
+**Music History:**
+- [ ] **Aaron Copland** — *What to Listen for in Music* (musical structure, appreciation)
+- [ ] **Alex Ross** — *The Rest Is Noise: Listening to the Twentieth Century* (modern classical music)
+- [ ] **Robert Greenberg** — *How to Listen to and Understand Great Music* (course/lectures)
+
+**Cultural Theory:**
+- [ ] **Theodor Adorno** — *Aesthetic Theory* (art and society, critical theory)
+- [ ] **Pierre Bourdieu** — *Distinction: A Social Critique of the Judgment of Taste* (cultural capital)
+- [ ] **Marshall McLuhan** — *Understanding Media* (the medium is the message)
+
 ### Philosophy & Legal Systems
 - [ ] **Mel Stamper** — *Fruits from a Poisonous Tree* (US legal framework, citizen vs national, 1933 financial restructuring)
 - [ ] **Plato** — *The Republic* (full text — justice, city-soul analogy, three classes, four virtues, decline of states, cave allegory, myth of Er)
