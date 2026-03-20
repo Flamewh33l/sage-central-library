@@ -711,7 +711,9 @@ Last updated: 2026-03-08
 ### Poetry — Romantic & 19th Century
 
 **English Romantic:**
-- [ ] **William Blake** — *Songs of Innocence and of Experience*, *The Marriage of Heaven and Hell* — Visionary, mystical
+- [ ] **William Blake** — *Songs of Innocence and of Experience* (full) — Visionary, mystical, quoted extensively in DMC5 ("Infant Joy," etc.)
+- [ ] **William Blake** — *The Marriage of Heaven and Hell* — Proverbs of Hell, contraries, "doors of perception" — V quotes heavily
+- [ ] **William Blake** — *Auguries of Innocence* — "To see a World in a Grain of Sand," widely quoted standalone
 - [ ] **William Wordsworth** — *The Prelude*, *Lyrical Ballads* (with Coleridge) — Nature, memory, common language
 - [ ] **Samuel Taylor Coleridge** — *The Rime of the Ancient Mariner*, *Kubla Khan* — Supernatural, imagination
 - [ ] **Lord Byron** — *Don Juan*, *Childe Harold's Pilgrimage* — Satire, exile, Byronic hero
