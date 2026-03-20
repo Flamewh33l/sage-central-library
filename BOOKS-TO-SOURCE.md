@@ -623,6 +623,196 @@ Last updated: 2026-03-08
 **Korean Traditional Theatre:**
 - [ ] **Pansori** — *Chunhyangga*, *Heungbuga*, *Simcheongga* — Narrative singing, transcribed oral tradition
 
+### Epic Poetry (Dramatic Foundations):
+- [ ] **Homer** — *The Odyssey* — Odysseus's journey home, Penelope's test of identity, fidelity and cunning
+- [ ] **Homer** — *The Iliad* — War, honor, rage of Achilles
+- [ ] **Virgil** — *The Aeneid* — Founding of Rome, duty vs. desire
+- [ ] **Ovid** — *Metamorphoses* — Transformations, mythology as poetry
+
+### Poetry — Ancient & Classical
+
+**Mesopotamian:**
+- [ ] **Enheduanna** — *Exaltation of Inanna* — First named author in history, Sumerian priestess, 23rd century BCE
+- [ ] ***The Epic of Gilgamesh*** — Oldest surviving epic, friendship, death, quest for immortality
+
+**Greek:**
+- [ ] **Sappho** — *Lyric poems* (fragments) — Love, desire, feminine perspective, "the tenth Muse"
+- [ ] **Pindar** — *Victory Odes* — Athletic triumph, elevated style
+- [ ] **Hesiod** — *Theogony*, *Works and Days* — Cosmology, farming wisdom
+
+**Roman:**
+- [ ] **Catullus** — *Carmina* — Love poetry, invective, raw emotion
+- [ ] **Horace** — *Odes*, *Satires* — Lyric perfection, "carpe diem"
+- [] **Lucretius** — *De Rerum Natura* — Epicurean philosophy in verse
+
+**Sanskrit/Indian Classical:**
+- [ ] **Kalidasa** — *Raghuvamsha*, *Kumarasambhava* — Epic poetry, courtly tradition
+- [ ] **Bharavi** — *Kiratarjuniya* — Mahabharata episode in ornate verse
+- [ ] **Magha** — *Shishupalavadha* — Later Sanskrit epic
+
+**Classical Chinese Poetry:**
+- [ ] ***The Book of Songs* (Shijing)** — Oldest Chinese poetry collection, 305 poems
+- [ ] ***The Songs of Chu* (Chu Ci)** — Qu Yuan, mythological, shamanistic
+- [ ] **Li Bai** — *Selected poems* — Tang dynasty, wine, wandering, moon
+- [ ] **Du Fu** — *Selected poems* — Tang dynasty, war, suffering, social conscience
+- [ ] **Wang Wei** — *Selected poems* — Zen-inflected nature poetry
+- [ ] **Bai Juyi** — *Selected poems* — Accessible, narrative, social critique
+
+**Classical Japanese Poetry:**
+- [ ] ***The Man'yōshū*** — Oldest Japanese poetry anthology, diverse voices
+- [ ] ***The Kokinshū*** — First imperial anthology, waka form
+- [ ] **Matsuo Bashō** — *The Narrow Road to the Deep North* — Haiku, travel, impermanence
+- [ ] **Kobayashi Issa** — Haiku, humor, poverty, compassion
+
+**Classical Persian:**
+- [ ] **Rumi** — *Masnavi*, *Divan-e Shams* — Mystical poetry, Sufi love
+- [ ] **Hafez** — *Divan* — Ghazals, wine, divine love, ambiguity
+- [ ] **Saadi** — *Gulistan*, *Bustan* — Wisdom poetry, stories
+- [ ] **Omar Khayyam** — *Rubaiyat* — Quatrains, wine, skepticism, carpe diem
+- [ ] **Ferdowsi** — *Shahnameh* — Persian national epic, 50,000 couplets
+- [ ] **Nizami** — *Layla and Majnun*, *Khosrow and Shirin* — Romantic epics
+
+**Classical Arabic:**
+- [ ] ***The Mu'allaqat*** — Pre-Islamic suspended odes, desert poetry
+- [ ] **Al-Mutanabbi** — *Diwan* — Pride, panegyric, linguistic virtuosity
+- [ ] **Ibn Arabi** — Mystical poetry, divine love
+
+### Poetry — Medieval & Renaissance
+
+**Old English/Old Norse:**
+- [ ] ***Beowulf*** — Epic, monsters, honor, mortality
+- [ ] ***The Poetic Edda*** — Norse mythology, heroic lays, Völuspá, Hávamál
+- [ ] ***The Prose Edda*** (Snorri Sturluson) — Mythology, poet's handbook
+- [ ] ***The Anglo-Saxon Chronicle* (poetic portions)** — History in verse
+
+**Icelandic Sagas (poetic prose):**
+- [ ] ***Njáls Saga*** — Feuds, honor, inevitable tragedy
+- [ ] ***Egil's Saga*** — Warrior-poet, psychological complexity
+- [ ] ***Laxdæla Saga*** — Love triangle, fate
+- [ ] ***Grettis Saga*** — Outlaw hero, monster-slayer
+- [ ] ***The Vinland Sagas*** — Exploration, America before Columbus
+
+**Finnish:**
+- [ ] ***The Kalevala*** (Elias Lönnrot, compiled) — Finnish national epic, rune-singing, Sampo, Väinämöinen
+
+**Medieval European:**
+- [ ] **Dante Alighieri** — *The Divine Comedy* (Inferno, Purgatorio, Paradiso) — Medieval cosmology, love, redemption
+- [ ] **Petrarch** — *Canzoniere* — Sonnet form perfected, Laura, unrequited love
+- [] **Chaucer** — *The Canterbury Tales* — Frame narrative, English vernacular
+- [ ] ** troubadours/trouvères** — *Selected songs* — Courtly love, fin'amor
+
+**Renaissance:**
+- [ ] **William Shakespeare** — *Sonnets* — Love, time, beauty, mortality
+- [ ] **John Donne** — *Songs and Sonnets*, *Holy Sonnets* — Metaphysical conceits, wit, religious intensity
+- [ ] **George Herbert** — *The Temple* — Metaphysical religious poetry
+- [ ] **Andrew Marvell** — *Selected poems* — "To His Coy Mistress," political and pastoral
+- [ ] **John Milton** — *Paradise Lost*, *Paradise Regained*, *Lycidas* — Epic, Satan, fall, blank verse
+
+### Poetry — Romantic & 19th Century
+
+**English Romantic:**
+- [ ] **William Blake** — *Songs of Innocence and of Experience*, *The Marriage of Heaven and Hell* — Visionary, mystical
+- [ ] **William Wordsworth** — *The Prelude*, *Lyrical Ballads* (with Coleridge) — Nature, memory, common language
+- [ ] **Samuel Taylor Coleridge** — *The Rime of the Ancient Mariner*, *Kubla Khan* — Supernatural, imagination
+- [ ] **Lord Byron** — *Don Juan*, *Childe Harold's Pilgrimage* — Satire, exile, Byronic hero
+- [ ] **Percy Bysshe Shelley** — *Prometheus Unbound*, *Ode to the West Wind* — Revolution, idealism
+- [ ] **John Keats** — *Odes*, *Endymion* — Beauty, mortality, negative capability
+
+**American 19th Century:**
+- [ ] **Walt Whitman** — *Leaves of Grass*, *Song of Myself* — Democracy, body, expansive self
+- [ ] **Emily Dickinson** — *Complete Poems* — Compression, dashes, death, immortality
+- [ ] **Edgar Allan Poe** — *The Raven*, *Selected poems* — Gothic, rhythm, melancholy
+
+**European 19th Century:**
+- [ ] **Johann Wolfgang von Goethe** — *Faust* (poetry), *West-Eastern Divan* — German Romanticism, wisdom
+- [ ] **Friedrich Hölderlin** — *Selected poems* — Tragic vision, Greece, modernity
+- [ ] **Rainer Maria Rilke** — *Duino Elegies*, *Sonnets to Orpheus* — Existential, angelic, transformation
+- [ ] **Charles Baudelaire** — *Les Fleurs du Mal* (Flowers of Evil) — Decadence, urban, symbolist
+- [ ] **Arthur Rimbaud** — *A Season in Hell*, *Illuminations* — Visionary, teenage genius, abandonment of poetry
+- [ ] **Paul Verlaine** — *Fêtes galantes*, *Romances sans paroles* — Musicality, symbolist
+- [ ] **Stéphane Mallarmé** — *L'Après-midi d'un faune*, *Selected poems* — Hermetic, pure poetry
+
+**Russian 19th Century:**
+- [ ] **Alexander Pushkin** — *Eugene Onegin*, *Selected poems* — Russian language refined, Romantic
+- [ ] **Mikhail Lermontov** — *A Hero of Our Time*, *Selected poems* — Byronic, Caucasus
+- [ ] **Fyodor Tyutchev** — *Selected poems* — Nature, philosophy, Russia
+
+### Poetry — Modern & Contemporary
+
+**Early 20th Century:**
+- [ ] **W.B. Yeats** — *The Tower*, *The Second Coming*, *Selected poems* — Irish myth, history, symbolism
+- [ ] **T.S. Eliot** — *The Waste Land*, *Four Quartets*, *The Love Song of J. Alfred Prufrock* — Modernism, fragmentation
+- [ ] **Ezra Pound** — *The Cantos* — Encyclopedic, difficult, fascist controversies
+- [ ] **Wallace Stevens** — *Selected poems* — Philosophy, imagination, "Sunday Morning"
+- [ ] **Marianne Moore** — *Selected poems* — Precision, animals, observation
+- [ ] **William Carlos Williams** — *Selected poems* — Imagism, "The Red Wheelbarrow," American vernacular
+- [ ] **H.D. (Hilda Doolittle)** — *Selected poems* — Imagist, myth, classical
+
+**Spanish/Latin American:**
+- [ ] **Federico García Lorca** — *Romancero Gitano*, *Poet in New York* — Gypsy ballads, surrealism, murder
+- [ ] **Pablo Neruda** — *Twenty Love Poems and a Song of Despair*, *Canto General*, *Selected odes* — Passion, politics, Chile
+- [ ] **Octavio Paz** — *Sunstone*, *Selected poems* — Mexican identity, surrealism
+- [ ] **César Vallejo** — *Trilce*, *Human Poems* — Suffering, experimental, Peru
+- [ ] **Jorge Luis Borges** — *Selected poems* — Labyrinths, mirrors, philosophy
+
+**Russian/Soviet Modern:**
+- [ ] **Anna Akhmatova** — *Requiem*, *Selected poems* — Suffering, Stalinism, feminine voice
+- [ ] **Marina Tsvetaeva** — *Selected poems* — Intensity, exile, suicide
+- [ ] **Osip Mandelstam** — *Selected poems* — Classical forms, Stalin epigram, death in camp
+- [ ] **Boris Pasternak** — *Selected poems* — *Doctor Zhivago* poems, nature
+- [ ] **Joseph Brodsky** — *Selected poems* — Exile, language, Nobel
+
+**Eastern European:**
+- [ ] **Czesław Miłosz** — *Selected poems* — Witness, Poland, memory
+- [ ] **Zbigniew Herbert** — *Selected poems* — Irony, history, "Mr. Cogito"
+- [ ] **Wisława Szymborska** — *Selected poems* — Irony, everyday, Nobel
+- [ ] **Paul Celan** — *Selected poems*, *Death Fugue* — Holocaust, language broken
+
+**German/Austrian:**
+- [ ] **Paul Celan** — See above (Romanian-born, wrote in German)
+
+**Irish/Scottish/Welsh:**
+- [ ] **Seamus Heaney** — *Death of a Naturalist*, *North*, *Seeing Things* — Bog bodies, Northern Ireland, earth
+- [ ] **Eavan Boland** — *Selected poems* — Irish womanhood, history, domestic
+- [ ] **Derek Walcott** — *Omeros*, *Selected poems* — Caribbean, colonialism, Homer
+
+**American Post-War:**
+- [ ] **Elizabeth Bishop** — *Selected poems* — Travel, loss, precision
+- [ ] **Robert Lowell** — *Life Studies*, *Selected poems* — Confessional, mental illness, history
+- [ ] **Allen Ginsberg** — *Howl*, *Kaddish* — Beat, protest, rawness
+- [ ] **Frank O'Hara** — *Lunch Poems* — New York, casual, immediate
+- [ ] **John Ashbery** — *Self-Portrait in a Convex Mirror* — Difficulty, consciousness
+- [ ] **Adrienne Rich** — *Diving into the Wreck*, *Selected poems* — Feminism, politics, lesbian identity
+- [ ] **Charles Bukowski** — *Selected poems* — Gritty, drinking, LA, raw
+
+**African/African Diaspora:**
+- [ ] **W.B. Yeats** — (Already listed, Irish)
+- [ ] **Derek Walcott** — (Already listed, Caribbean)
+- [ ] **Maya Angelou** — *Selected poems* — "Still I Rise," inauguration, memoirist voice
+- [ ] **Gwendolyn Brooks** — *Selected poems* — Chicago, Black experience, Pulitzer first Black winner
+- [ ] **Langston Hughes** — *Selected poems* — Harlem Renaissance, jazz poetry, "The Negro Speaks of Rivers"
+- [ ] **Claude McKay** — *Selected poems* — Harlem Renaissance, "If We Must Die"
+- [ ] **Leopold Senghor** — *Selected poems* — Négritude, Senegal
+- [ ] **Wole Soyinka** — *Selected poems* — Nigeria, Nobel
+- [ ] **Christopher Okigbo** — *Selected poems* — Nigeria, Biafra, death
+- [ ] **Okot p'Bitek** — *Song of Lawino* — Uganda, traditional vs modern
+
+**Contemporary (Living/Recent):**
+- [ ] **Mary Oliver** — *Selected poems* — Nature, spirituality, accessible, Pulitzer
+- [ ] **Billy Collins** — *Selected poems* — Humor, accessibility, US Poet Laureate
+- [ ] **Louise Glück** — *Selected poems* — Myth, trauma, Nobel 2020
+- [ ] **Tracy K. Smith** — *Life on Mars*, *Wade in the Water* — Contemporary, US Poet Laureate
+- [ ] **Ocean Vuong** — *Night Sky with Exit Wounds* — Vietnamese-American, queer, lyrical
+- [ ] **Amanda Gorman** — *The Hill We Climb*, *Call Us What We Carry* — Inaugural poet, young voice
+- [ ] **Warsan Shire** — *Teaching My Mother How to Give Birth* — Somali-British, migration, trauma
+
+**Spoken Word/Performance Poetry:**
+- [ ] **Saul Williams** — *She*, *Said the Shotgun to the Head* — Hip-hop poetry fusion
+- [ ] **Shane Koyczan** — *To This Day* — Anti-bullying, viral performance
+- [ ] **Sarah Kay** — *B* — TED fame, accessible spoken word
+- [ ] **Rudy Francisco** — *Helium* — Competition poetry, emotional
+- [ ] **Neil Hilborn** — *The Future* — Mental health, viral performance
+
 **Epic Poetry (Dramatic Foundations):**
 - [ ] **Homer** — *The Odyssey* — Odysseus's journey home, Penelope's test of identity, fidelity and cunning
 - [ ] **Homer** — *The Iliad* — War, honor, rage of Achilles
