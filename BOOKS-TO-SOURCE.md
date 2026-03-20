@@ -711,9 +711,16 @@ Last updated: 2026-03-08
 ### Poetry — Romantic & 19th Century
 
 **English Romantic:**
-- [ ] **William Blake** — *Songs of Innocence and of Experience* (full) — Visionary, mystical, quoted extensively in DMC5 ("Infant Joy," etc.)
-- [ ] **William Blake** — *The Marriage of Heaven and Hell* — Proverbs of Hell, contraries, "doors of perception" — V quotes heavily
-- [ ] **William Blake** — *Auguries of Innocence* — "To see a World in a Grain of Sand," widely quoted standalone
+- [ ] **William Blake** — *Songs of Innocence and of Experience* (full) — Visionary, mystical
+- [ ] **William Blake** — *Infant Joy* — V's introduction ("I have no name; I am but two days old")
+- [ ] **William Blake** — *A Dream* — V quotes before finishing Goliath ("Little wanderer, hie thee home")
+- [ ] **William Blake** — *The Angel that presided o'er my birth* — V's self-description ("Little creature, form'd of Joy and Mirth")
+- [ ] **William Blake** — *When early morn walks forth in sober grey* — V's arrival to Nero ("I curse my stars in bitter grief and woe")
+- [ ] **William Blake** — *Love and harmony combine* — V to Urizen at reunification ("While thy branches mix with mine")
+- [ ] **William Blake** — *The Marriage of Heaven and Hell* — Contraries, "doors of perception"
+- [ ] **William Blake** — *The Voice of the Devil* — V quotes finishing Miraggio Angelo
+- [ ] **William Blake** — *Proverbs of Hell* — Heavily quoted by V throughout DMC5
+- [ ] **William Blake** — *Auguries of Innocence* — "To see a World in a Grain of Sand"
 - [ ] **William Wordsworth** — *The Prelude*, *Lyrical Ballads* (with Coleridge) — Nature, memory, common language
 - [ ] **Samuel Taylor Coleridge** — *The Rime of the Ancient Mariner*, *Kubla Khan* — Supernatural, imagination
 - [ ] **Lord Byron** — *Don Juan*, *Childe Harold's Pilgrimage* — Satire, exile, Byronic hero
