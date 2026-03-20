@@ -798,6 +798,8 @@ Last updated: 2026-03-08
 - [ ] **Okot p'Bitek** — *Song of Lawino* — Uganda, traditional vs modern
 
 **Essential Individual Poems (UK GCSE Canon):**
+
+**Power and Conflict Cluster:**
 - [ ] **Ted Hughes** — *Bayonet Charge* — WWI perspective, fear, loss of purpose mid-charge
 - [ ] **Alfred, Lord Tennyson** — *The Charge of the Light Brigade* — Crimean War, heroism and futility, cavalry
 - [ ] **John Agard** — *Checking Out Me History* — Postcolonial, reclaiming Caribbean heritage vs. British education
@@ -813,6 +815,25 @@ Last updated: 2026-03-08
 - [ ] **Seamus Heaney** — *Storm on the Island* — Northern Ireland, isolation, nature's violence, military metaphor
 - [ ] **Imtiaz Dharker** — *Tissue* — Paper as metaphor, fragility, borders, identity
 - [ ] **Carol Ann Duffy** — *War Photographer* — Developing photos, home vs. war zones, complicity
+
+**Love and Relationships Cluster:**
+- [ ] **Carol Ann Duffy** — *Before You Were Mine* — Mother-daughter relationship, memory, sacrifice
+- [ ] **Andrew Waterhouse** — *Climbing My Grandfather* — Grandfather-grandson bond, physical metaphor for intimacy
+- [ ] **Charles Causley** — *Eden Rock* — Nostalgia, parents, idyllic memory, death
+- [ ] **Charlotte Mew** — *The Farmer's Bride* — Unconsummated marriage, rural isolation, yearning
+- [ ] **Seamus Heaney** — *Follower* — Father-son, role reversal, admiration and inadequacy
+- [ ] **Maura Dooley** — *Letters from Yorkshire* — Long-distance relationship, different lives, connection
+- [ ] **Percy Bysshe Shelley** — *Love's Philosophy* — Romantic argument, natural union, persuasion
+- [ ] **Simon Armitage** — *Mother, Any Distance* — Mother-son, growing up, letting go, measuring life
+- [ ] **Thomas Hardy** — *Neutral Tones* — Failed relationship, bleak winter, bitter memory
+- [ ] **Robert Browning** — *Porphyria's Lover* — Dramatic monologue, obsession, murder, possession
+- [ ] **Daljit Nagra** — *Singh Song* — British-Indian identity, love across cultural boundaries, humor
+- [ ] **Elizabeth Barrett Browning** — *Sonnet 29* ("I Think of Thee") — Passion, absence, overwhelming love
+- [ ] **Cecil Day-Lewis** — *Walking Away* — Father-son, letting go, growing independence
+- [ ] **Lord Byron** — *When We Two Parted* — Breakup, betrayal, bitterness, lasting pain
+- [ ] **Owen Sheers** — *Winter Swans* — Relationship crisis, reconciliation, enduring love
+
+**Context:** These two clusters form the UK GCSE English Literature poetry anthology — conflict, power, love, family, identity. Frequently examined, widely taught.
 
 **Contemporary (Living/Recent):**
 - [ ] **Mary Oliver** — *Selected poems* — Nature, spirituality, accessible, Pulitzer
