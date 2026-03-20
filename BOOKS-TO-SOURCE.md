@@ -590,19 +590,59 @@ Last updated: 2026-03-08
 - [ ] **Ivan Turgenev** — *Fathers and Sons*
 - [ ] **Nikolai Gogol** — *Dead Souls*, *The Overcoat*
 
+### Drama & Theatre
+
+**Classical Foundations:**
+- [ ] **Aeschylus** — *The Oresteia* (Agamemnon, The Libation Bearers, The Eumenides) — Foundation of Western tragedy, justice and vengeance
+- [ ] **Sophocles** — *Oedipus Rex*, *Antigone*, *Electra* — Fate, moral conflict, Greek tragedy perfected
+- [ ] **Euripides** — *Medea*, *The Bacchae*, *Hippolytus* — Psychological complexity, challenging conventions
+- [ ] **Aristophanes** — *Lysistrata*, *The Clouds*, *The Birds* — Political satire, Old Comedy
+
+**Epic Poetry (Dramatic Foundations):**
+- [ ] **Homer** — *The Odyssey* — Odysseus's journey home, Penelope's test of identity, fidelity and cunning
+- [ ] **Homer** — *The Iliad* — War, honor, rage of Achilles
+- [ ] **Virgil** — *The Aeneid* — Founding of Rome, duty vs. desire
+
+**Elizabethan/Jacobean:**
+- [ ] **William Shakespeare** — *Hamlet*, *Macbeth*, *King Lear*, *Othello*, *A Midsummer Night's Dream*, *The Tempest*, *Romeo and Juliet*, *Much Ado About Nothing*, *Twelfth Night*
+- [ ] **Christopher Marlowe** — *Doctor Faustus*, *The Jew of Malta*, *Tamburlaine* — The other Elizabethan genius
+- [ ] **Ben Jonson** — *Volpone*, *The Alchemist* — Satirical comedy
+
+**European Masters:**
+- [ ] **Molière** — *Tartuffe*, *The Misanthrope*, *The Imaginary Invalid*, *Don Juan* — French comedy of manners, social satire
+- [ ] **Racine** — *Phèdre*, *Andromaque* — French neoclassical tragedy
+- [ ] **Goethe** — *Faust* (Parts I and II) — German Romanticism, the bargain with Mephistopheles
+- [ ] **Henrik Ibsen** — *A Doll's House*, *Hedda Gabler*, *Ghosts*, *An Enemy of the People* — Father of modern drama, realism
+- [ ] **Anton Chekhov** — *The Seagull*, *Uncle Vanya*, *The Cherry Orchard*, *Three Sisters* — Subtext, unspoken tensions
+- [ ] **August Strindberg** — *Miss Julie*, *A Dream Play*, *The Father* — Psychological intensity, expressionism
+- [ ] **Bertolt Brecht** — *Mother Courage and Her Children*, *The Threepenny Opera*, *Galileo* — Epic theatre, breaking fourth wall, Verfremdungseffekt
+
+**Modern/Contemporary:**
+- [ ] **Oscar Wilde** — *The Importance of Being Earnest*, *An Ideal Husband* — Wit, social comedy
+- [ ] **George Bernard Shaw** — *Pygmalion*, *Saint Joan*, *Man and Superman* — Ideas theatre, social critique
+- [ ] **Antonin Artaud** — *Theatre of Cruelty* (writings) — Experimental, visceral
+- [ ] **Samuel Beckett** — *Waiting for Godot*, *Endgame*, *Happy Days* — Absurdism, minimalism, existential
+- [ ] **Eugène Ionesco** — *Rhinoceros*, *The Bald Soprano* — Theatre of the absurd
+- [ ] **Harold Pinter** — *The Birthday Party*, *The Caretaker*, *The Homecoming* — The "Pinteresque" pause, menace in the mundane
+- [ ] **Arthur Miller** — *Death of a Salesman*, *The Crucible*, *All My Sons* — American moral theatre
+- [ ] **Tennessee Williams** — *A Streetcar Named Desire*, *Cat on a Hot Tin Roof*, *The Glass Menagerie* — Southern Gothic intensity
+- [ ] **Tom Stoppard** — *Rosencrantz and Guildenstern Are Dead*, *Arcadia*, *The Real Thing* — Meta-theatrical, intellectual
+- [ ] **David Mamet** — *Glengarry Glen Ross*, *American Buffalo* — Rhythmic dialogue, masculinity
+- [ ] **August Wilson** — *Fences*, *The Piano Lesson* — African American experience, century cycle
+- [ ] **Caryl Churchill** — *Top Girls*, *Cloud 9* — Feminist theatre, nonlinear structure
+
+**Musical Theatre (Librettos):**
+- [ ] **Stephen Sondheim** — *Sweeney Todd*, *Into the Woods*, *Sunday in the Park with George* (librettos/scores)
+- [ ] **Lin-Manuel Miranda** — *Hamilton* (libretto) — Contemporary storytelling through hip-hop
+- [ ] **Jonathan Larson** — *Rent* (libretto) — La Bohème adaptation
+- [ ] **Andrew Lloyd Webber/Tim Rice** — *Jesus Christ Superstar*, *Evita* (librettos)
+- [ ] **Kander & Ebb** — *Chicago*, *Cabaret* (librettos)
+- [ ] **Lerner & Loewe** — *My Fair Lady* (libretto) — Shaw adaptation
+
 ### Literature
 - [ ] **Richard Adams** — *The Plague Dogs*
 - [ ] **Lois Lowry** — *The Giver*
 - [ ] **pirateaba** — *The Wandering Inn* (web serial, progression fantasy, massive worldbuilding, character-driven)
-
-### Shakespeare (Requested by Thanatos)
-- [ ] **William Shakespeare** — *Hamlet*
-- [ ] **William Shakespeare** — *Macbeth*
-- [ ] **William Shakespeare** — *King Lear*
-- [ ] **William Shakespeare** — *Othello*
-- [ ] **William Shakespeare** — *A Midsummer Night's Dream*
-- [ ] **William Shakespeare** — *The Tempest*
-- [ ] **William Shakespeare** — *Romeo and Juliet*
 
 ---
 
